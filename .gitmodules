@@ -1,0 +1,6 @@
+[submodule "geekbang/pytorch_fangyuan/geekTime-image-classification"]
+	path = geekbang/pytorch_fangyuan/geekTime-image-classification
+	url = http://github.com/syuu1987/geekTime-image-classification.git
+[submodule "geekbang/pytorch_fangyuan/geekTime-semantic-segmentation"]
+	path = geekbang/pytorch_fangyuan/geekTime-semantic-segmentation
+	url = http://github.com/syuu1987/geekTime-semantic-segmentation.git
